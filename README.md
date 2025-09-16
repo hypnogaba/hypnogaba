@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @hypnogaba
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @hypnogaba
+# noframe (one-liner: what is this?)
+Lightweight toolbox for **Web3 strategies on EVM/Solana**: reusable contracts, backtests, and deploy flows.
 
-<!---
-hypnogaba/hypnogaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#)
+[![Built with Solidity](https://img.shields.io/badge/Solidity-%E2%9C%94%EF%B8%8F-informational)](#)
+
+## Features
+- ✅ Reusable modules: access control, fees, pausable
+- 🧪 Tests with Foundry/Hardhat
+- 🚀 One-command deploys to testnet/mainnet
+
+## Quick start
+```bash
+# install
+npm i
+# test
+npm run test
+# deploy (example)
+npm run deploy --network sepolia
