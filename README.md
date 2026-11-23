@@ -12,6 +12,7 @@ Solana Breakpoint badge, crypto hiring.
 **Solana Breakpoint 2026 badge**
 
 - [Pocket Arcade](https://github.com/hypnogaba/pocket-arcade): a Game Boy player for the badge with 16 free games and Tank Siege, an original tank game, in C
+- [FORK BOMB](https://github.com/hypnogaba/forkbomb): a bomb-maze arcade game. Blow up forks, dodge rugs and MEV sandwiches, reach the Finality gate
 - [Fiber Run for the badge](https://github.com/hypnogaba/race-badge): the DoubleZero runner in Lua
 - [DZ Map](https://github.com/hypnogaba/dz-map): lay the fiber and light up the world map
 
