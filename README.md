@@ -1,22 +1,11 @@
 ### Hi, I'm hypnogaba
 
-Community and builder at [DoubleZero](https://doublezero.xyz), based in France.
-I build tools, games and small products around Solana: fast data feeds, the
-Solana Breakpoint badge, crypto hiring.
+I build bots, small web products, developer tools and the occasional game for tiny screens.
+Mostly interested in automation, crypto infrastructure and convincing myself that one more side project is a reasonable life choice.
 
-**Live**
+If something looks broken, it's probably a work in progress. If it works, don't touch it.
 
-- [nextcryptojob.xyz](https://nextcryptojob.xyz): crypto hiring on proof of work. Role scores from X, GitHub and wallets, a daily job digest, an API for AI agents ([code](https://github.com/hypnogaba/nextcryptojob))
-- [Fiber Run](https://race.speedlab.pro): an endless runner for DoubleZero. Outrun the shark with lower latency
-
-**Solana Breakpoint 2026 badge**
-
-- [Pocket Arcade](https://github.com/hypnogaba/pocket-arcade): a Game Boy player for the badge with 16 free games and Tank Siege, an original tank game, in C
-- [FORK BOMB](https://github.com/hypnogaba/forkbomb): a bomb-maze arcade game. Blow up forks, dodge rugs and MEV sandwiches, reach the Finality gate
-- [Fiber Run for the badge](https://github.com/hypnogaba/race-badge): the DoubleZero runner in Lua
-- [DZ Map](https://github.com/hypnogaba/dz-map): lay the fiber and light up the world map
-
-**Elsewhere**
+**Links**
 
 - X: [@hypnogaba](https://x.com/hypnogaba)
-- Site: [hypnogaba.com](https://hypnogaba.com)
+- Web: [hypnogaba.com](https://hypnogaba.com)
